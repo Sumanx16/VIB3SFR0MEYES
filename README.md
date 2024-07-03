@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SUMAN KUMAR A.K.A VIB3SFR0MEYES </h1>
+<h1 align="center">Hi 👋, I'm SUMAN KUMAR A.K.A Sumanx16 </h1>
 <h3 align="center">A Front-End & Web Application Developer in Exploit OverLords Group. </h3>
 <img src="https://github.com/VIB3SFR0MEYES/Resources_Vib3s/blob/main/SUman.jpeg" alt="VIB3SFR0MEYES" width="600" style="vertical-align: bottom;">
 
