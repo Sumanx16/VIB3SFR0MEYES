@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SUMAN KUMAR A.K.A Sumanx16 </h1>
 <h3 align="center">A Front-End & Web Application Developer in Exploit OverLords Group. </h3>
-<img src="https://github.com/VIB3SFR0MEYES/Resources_Vib3s/blob/main/SUman.jpeg" alt="SUmanx16" width="600" style="vertical-align: bottom;">
+<img src="https://github.com/VIB3SFR0MEYES/Resources_Vib3s/blob/main/SUman.jpeg" alt="VIB3SFR0MEYES" width="600" style="vertical-align: bottom;">
 
 # 💫 About Me:
 🔭 I’m currently working on Frontend Development<br><br>🌱 I’m currently learning Python , Web Application Development <br><br>👨‍💻 All of my projects are available at https://github.com/VIB3SFR0MEYES<br><br>💬 Ask me about C,C++,Python & Front-End Development<br><br>📄 Know about my experiences i have created some clones of websites & Also i have helped in development of a Voice Assistant With Collaboration and Spearheaded By D4rD00M <br><br>⚡Fun Fact Unleashing the power of algorithms and innovation.
