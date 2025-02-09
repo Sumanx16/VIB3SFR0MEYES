@@ -12,7 +12,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Frontend Development<br><br>🌱 I’m currently learning Python , Web Application Development <br><br>👨‍💻 All of my projects are available at https://github.com/Sumanx16<br><br>💬 Ask me about C,C++,Python & Front-End Development<br><br>📄 Know about my experiences i have created some clones of websites & Also i have helped in development of a Voice Assistant With Collaboration and Spearheaded By D4rD00M <br><br>⚡Fun Fact Unleashing the power of algorithms and innovation.
+🔭 I’m currently working on Frontend Development<br><br>🌱 I’m currently learning DSA, Web Application Development, MySQL <br><br>👨‍💻 All of my projects are available at https://github.com/Sumanx16<br><br>💬 Ask me about C,C++,Python & Front-End Development<br><br>📄 Know about my experiences i have created some clones of websites & Also i have helped in development of a Voice Assistant With Collaboration and Spearheaded By D4rD00M <br><br>⚡Fun Fact Unleashing the power of algorithms and innovation.
 
 
 
@@ -47,10 +47,11 @@
 
 
 # 📊 GitHub Stats:
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sumanx16&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanx16&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<div align="center">
+    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Sumanx16&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanx16&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
+
 
 
 
