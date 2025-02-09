@@ -70,9 +70,35 @@
      <img src="https://github-contributor-stats.vercel.app/api?username=Sumanx16&limit=5&theme=dracula&combine_all_yearly_contributions=true"/><br/>
 </div>
 
+## 🌐 Connect with Me:
+
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/suman-kumar16/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://leetcode.com/sumankr01/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+
+  <a href="https://https://sumanx16.github.io//" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  <a href="mailto:your-sumankrsinha14@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://www.instagram.com/sumansfw/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+</div>
+
 # ✨ Connect With Me:
 
-- **LinkedIn**: [linkedin.com/in/udit011](https://www.linkedin.com/in/suman-kumar16/)  
+- **LinkedIn**: www.linkedin.com/in/suman-kumar16
 - **Portfolio**: 🔜!  
 - **Email**: sumankrsinha14@gmail.com  
 
