@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> I'm SUMAN KUMAR A.K.A Sumanx16 </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=0026F7&center=true&vCenter=true&width=435&height=56&lines=I+am+a+Web+Developer+%F0%9F%9A%80;I+am+a+Coder+%F0%9F%96%A5%EF%B8%8F;I+am+a+Entrepreneur+%F0%9F%92%A1" alt="Typing SVG" /></a>
 <h3 align="center">A Front-End & Web Application Developer in Exploit OverLords Group. </h3>
 <img src="https://github.com/VIB3SFR0MEYES/Resources_Vib3s/blob/main/SUman.jpeg" alt="VIB3SFR0MEYES" width="600" style="vertical-align: bottom;">
 
