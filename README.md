@@ -70,3 +70,12 @@
      <img src="https://github-contributor-stats.vercel.app/api?username=Sumanx16&limit=5&theme=dracula&combine_all_yearly_contributions=true"/><br/>
 </div>
 
+# ✨ Connect With Me:
+
+- **LinkedIn**: [linkedin.com/in/udit011](https://www.linkedin.com/in/suman-kumar16/)  
+- **Portfolio**: 🔜!  
+- **Email**: sumankrsinha14@gmail.com  
+
+---
+
+> *"A good network is the ultimate net worth, let's catch up and brew something great together!"*
