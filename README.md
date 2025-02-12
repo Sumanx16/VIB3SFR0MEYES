@@ -98,7 +98,12 @@
 
 </div>
 
+ 
+# ✨ Connect With Me:
 
+- **LinkedIn**: www.linkedin.com/in/suman-kumar16
+- **Portfolio**: 🔜!  
+- **Email**: sumankrsinha14@gmail.com  
 ---
 
 > *"A good network is the ultimate net worth, let's catch up and brew something great together!"*
