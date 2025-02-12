@@ -13,23 +13,40 @@
 </div>
 
 
-# 💫 About Me:
+### 💫 About Me:
 🔭 I’m currently working on Frontend Development<br><br>🌱 I’m currently learning DSA, Web Application Development, MySQL <br><br>👨‍💻 All of my projects are available at https://github.com/Sumanx16<br><br>💬 Ask me about C,C++,Python & Front-End Development<br><br>📄 Know about my experiences i have created some clones of websites & Also i have helped in development of a Voice Assistant With Collaboration and Spearheaded By D4rD00M <br><br>⚡Fun Fact Unleashing the power of algorithms and innovation.
 
+---
 
+### 🔥 Competitive Programming Dashboard  
 
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-kumar-34b031252/)
+  <h3 style="color: white;">LEETCODE ACTIVITY</h3>
+  <img src="https://leetcard.jacoblin.cool/Sumankr01?theme=dark&ext=activity" width="400px" alt="LeetCode Stats" />
 
-# 🏆 Github Streaks:
+  <h3 style="color: white; margin-top: 20px;">GFG ACTIVITY</h3>
+  <a href="https://www.geeksforgeeks.org/user/petersin3z/" target="_blank">
+    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="150px" alt="GFG Profile" />
+  </a>
+  
+<h3 style="color: white; margin-top: 20px;">CODECHEF ACTIVITY</h3>
+<a href="https://www.codechef.com/users/sumankr01" target="_blank">
+  <img src="https://cdn.codechef.com/images/cc-logo.svg" width="240px" alt="CodeChef Logo" />
+</a>
+  
+</div>
+
+---
+
+### 🏆 Github Streaks:
 <div align="center">
   <img src="https://streak-stats.vercel.app/?user=udit01111&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
+---
 
-
-# 💻 Tech Stack:
+### 💻 Tech Stack:
   <div align="center">
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -46,32 +63,32 @@
 
 </div>
 
+---
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <div align="center">
     <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Sumanx16&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"/>
     <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanx16&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
-
-
-
-
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sumanx16&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sumanx16&theme=gruvbox&no-frame=false&no-bg=false&margin-w=0" alt="GitHub Trophies">
+</p>
 
-### ✍️ Random Dev Quote:
-<div align="center">
-       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"/><br/>
-</div>
+
+---
 
 ### 🔝 Top Contributed Repo:
 <div align="center">
      <img src="https://github-contributor-stats.vercel.app/api?username=Sumanx16&limit=5&theme=dracula&combine_all_yearly_contributions=true"/><br/>
 </div>
 
-## 🌐 Connect with Me:
+---
+
+### 🌐 Connect with Me:
 
 <div align="center">
   
@@ -97,12 +114,11 @@
 
 </div>
 
- 
-# ✨ Connect With Me:
-
-- **LinkedIn**: www.linkedin.com/in/suman-kumar16
-- **Portfolio**: 🔜!  
-- **Email**: sumankrsinha14@gmail.com  
 ---
+
+### ✍️ Random Dev Quote:
+<div align="center">
+       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"/><br/>
+</div>
 
 > *"A good network is the ultimate net worth, let's catch up and brew something great together!"*
