@@ -14,6 +14,14 @@
 
 
 ### 💫 About Me:
+<a href="#">
+  <img alt="Janardon's Profile Views" src="https://komarev.com/ghpvc/?username=janardannn&color=blue" />
+</a>
+<a href="https://github.com/janardannn?tab=followers">
+  <img alt="Janardon's Profile Views" src="https://img.shields.io/github/followers/janardannn.svg?style=flat&label=Follow" />
+</a>
+</h1>
+
 🔭 I’m currently working on Frontend Development<br><br>🌱 I’m currently learning DSA, Web Application Development, MySQL <br><br>👨‍💻 All of my projects are available at https://github.com/Sumanx16<br><br>💬 Ask me about C,C++,Python & Front-End Development<br><br>📄 Know about my experiences i have created some clones of websites & Also i have helped in development of a Voice Assistant With Collaboration and Spearheaded By D4rD00M <br><br>⚡Fun Fact Unleashing the power of algorithms and innovation.
 
 ---
