@@ -24,10 +24,9 @@
 
 # 🏆 Github Streaks:
 <div align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=sumanx16&theme=dark" alt="GitHub Streak" />
-    </a>
+  <img src="https://streak-stats.vercel.app/?user=udit01111&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
 
 
 # 💻 Tech Stack:
